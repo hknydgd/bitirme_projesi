@@ -1,0 +1,33 @@
+[
+    {
+        "tipAdi":"burfas_tesisleri",
+        "tipImage":"burfas.jpg",
+        "baslik": "Burfaş Tesisleri"
+    },
+    {
+        "tipAdi":"genclik_merkezleri",
+        "tipImage":"genclik.jpg",
+        "baslik": "Gençlik Merkezleri"
+    },
+    {
+        "tipAdi":"busmek_kurs_merkezleri",
+        "tipImage":"busmek.png",
+        "baslik": "Busmek Kurs Merkezleri"
+    },
+    {
+        "tipAdi":"anakucagi_merkezleri",
+        "tipImage":"anakucagi.jpg",
+        "baslik": "Anakucağı Merkezleri"
+    },
+    
+    {
+        "tipAdi":"hayvan_besleme_noktalari",
+        "tipImage":"hayvanbesleme.jpg",
+        "baslik": "Hayvan Besleme Noktaları"
+    },
+    {
+        "tipAdi":"wifi_noktalari",
+        "tipImage":"wifipoints.jpg",
+        "baslik": "Ücretsiz Wifi Noktaları"
+    }
+]

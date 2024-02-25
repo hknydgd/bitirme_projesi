@@ -1,0 +1,239 @@
+[
+    
+            {
+                    "ILCE": "KARACABEY",
+                    "MAHALLE": "DRAMA",
+                    "ADI": "KARACABEY KURS MERKEZİ",
+                    "coordinates": [
+                        40.21687306788891, 28.368530955451526
+                    ]
+            },
+            {
+               
+                    "ILCE": "MUSTAFAKEMALPAŞA",
+                    "MAHALLE": "YÜZBAŞI SABRİBEY",
+                    "ADI": "MUSTAFAKEMALPAŞA KURS MERKEZİ",     
+                    "coordinates": [
+                        40.0395278059842, 28.409523534557582
+                    ]
+                },
+            {
+                
+                    "ILCE": "NİLÜFER",
+                    "MAHALLE": "GÖRÜKLE",
+                    "ADI": "GÖRÜKLE GENÇLİK MERKEZİ",
+                    "coordinates": [
+                        40.22661649148513, 28.85054602661626
+                    ]
+                
+            },
+            {
+                
+                    "ILCE": "MUDANYA",
+                    "MAHALLE": "ÖMERBEY",
+                    "ADI": "MUDANYA KURS MERKEZİ",
+                    "coordinates": [
+                        40.37358346368577, 28.887558819029593
+                    ]
+                
+            },
+            {
+                
+                    "ILCE": "NİLÜFER",
+                    "MAHALLE": "ERTUĞRUL",
+                    "ADI": "ERTUĞRUL KURS MERKEZİ",
+                    "coordinates": [
+                        40.21749912954506, 28.921061368944915
+                    ]
+                
+            },
+            {
+                    "ILCE": "NİLÜFER",
+                    "MAHALLE": "KONAK",
+                    "ADI": "BEŞEVLER KURS MERKEZİ",
+                    "coordinates": [
+                        40.20788112648067, 28.977395772642748
+                    ]
+            
+            },
+            {
+                
+                    "ILCE": "ORHANELİ",
+                    "MAHALLE": "GAZİPAŞA",
+                    "ADI": "ORHANELİ KURS MERKEZİ",
+                
+                
+                    "coordinates": [
+                        39.905037647158714, 28.987443741950337
+                    ]
+    
+            },
+            {
+                
+                    "ILCE": "OSMANGAZİ",
+                    "MAHALLE": "YENİ KARAMAN",
+                    "ADI": "YENİ KARAMAN MESLEKİ EĞİTİM MERKEZİ",
+                
+                    "coordinates": [
+                        40.2221156628746, 28.997138768945018
+                    ]
+               
+            },
+            {
+                
+                    "ILCE": "OSMANGAZİ",
+                    "MAHALLE": "HÜDAVENDİGAR",
+                    "ADI": "HÜDAVENDİGAR HOBİ EVİ",
+                
+                
+                    "coordinates": [
+                        40.202567424323156, 29.00415334195803
+                    ]
+                
+            },
+            {
+                
+                    "ILCE": "OSMANGAZİ",
+                    "MAHALLE": "SOĞUKKUYU",
+                    "ADI": "HÜRRİYET SINAVA HAZIRLIK",
+                
+                    "coordinates": [
+                        40.217326226445294, 29.00689327167316
+                    ]
+                
+            },
+            {
+               
+                    "ILCE": "OSMANGAZİ",
+                    "MAHALLE": "SANTRAL GARAJ",
+                    "ADI": "BUSMEK YÖNETİM MERKEZİ",
+                
+                    "coordinates": [
+                        40.20045444712905, 29.049746268944297
+                    ]
+                
+            },
+            {
+                
+                    "ILCE": "OSMANGAZİ",
+                    "MAHALLE": "SANTRAL GARAJ",
+                    "ADI": "MERİNOS KURS MERKEZİ",
+                
+                    "coordinates": [
+                        40.20037744734332, 29.05235672661563
+                    ]
+               
+            },
+            {
+                
+                    "ILCE": "OSMANGAZİ",
+                    "MAHALLE": "AHMETPAŞA",
+                    "ADI": "KENT MEYDANI KURS MERKEZİ",
+                
+                    "coordinates": [
+                        40.20039136345617, 29.05233895805024
+                    ]
+            },
+            {
+                
+                    "ILCE": "YILDIRIM",
+                    "MAHALLE": "UMURBEY",
+                    "ADI": "UMURBEY İPEK ÜRETİM MERKEZİ",
+                
+                    "coordinates": [
+                        40.17600510291736, 29.072652586135472
+                    ]
+                
+            },
+            {
+                
+                    "ILCE": "YILDIRIM",
+                    "MAHALLE": "MOLLAARAP",
+                    "ADI": "MOLLAARAP KURS MERKEZİ",
+                
+                
+                    "coordinates": [
+                        40.173856116704144, 29.074732897779377
+                    ]
+               
+            },
+            {
+               
+                    "ILCE": "YILDIRIM",
+                    "MAHALLE": "DAVUTKADI",
+                    "ADI": "MUALLİMZADE KÜLTÜR MERKEZİ",
+                
+                    "coordinates": [
+                        40.183010582495776, 29.084672826615257
+                    ]
+                
+            },
+            {
+                
+                    "ILCE": "YILDIRIM",
+                    "MAHALLE": "YAVUZSELIM",
+                    "ADI": "YAVUZ SELİM SOSYAL YAŞAM",
+                
+                    "coordinates": [
+                        40.19986663518107, 29.11571215820764
+                    ]
+                
+            },
+            {
+                
+                    "ILCE": "YILDIRIM",
+                    "MAHALLE": "YİĞİTLER",
+                    "ADI": "NAİM SÜLEYMANOĞLU KURS MERKEZİ",
+                
+                    "coordinates": [
+                        40.198856656051994, 29.15567326261468
+                    ]
+                
+            },
+            {
+                
+                    "ILCE": "GEMLİK",
+                    "MAHALLE": "BALIKPAZARI",
+                    "ADI": "GEMLİK PAŞAKONAĞI KURS MERKEZİ",
+                
+                    "coordinates": [
+                        40.436465389406145, 29.154580382443875
+                    ]
+                
+            },
+            {
+               
+                    "ILCE": "YILDIRIM",
+                    "MAHALLE": "VAKIF",
+                    "ADI": "VAKIF BERA KURS MERKEZİ",
+                
+                
+                    "coordinates": [
+                        40.20572925658193, 29.163995611273457
+                    ]
+                
+            },
+            {
+                
+                    "ILCE": "GÜRSU",
+                    "MAHALLE": "YENİ DOĞAN",
+                    "ADI": "GÜRSU KURS MERKEZİ",
+                
+                
+                    "coordinates": [
+                        40.20189581930272, 29.180295299175594
+                    ]
+               
+            },
+            {
+                
+                    "ILCE": "ORHANGAZİ",
+                    "MAHALLE": "CAMİİ KEBAİR",
+                    "ADI": "ORHANGAZİ KURS MERKEZİ",
+                
+                    "coordinates": [
+                        40.489784021304565, 29.307297238267193
+                    ]
+            
+            }
+        ]

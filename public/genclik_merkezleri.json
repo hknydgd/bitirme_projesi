@@ -1,0 +1,207 @@
+[
+    
+            {
+                
+                    "ILCE": "NİLÜFER",
+                    "MAHALLE": "DUMLUPINAR",
+                    "ADI": "GÖRÜKLE MİLLET KIRAATHANESİ",
+                    
+                    "ADRES": "DUMLUPINAR MAHALLESİ GELİBOLU CAD NO:20 NİLÜFER/BURSA",
+                    
+                    "CALISMA_SA": "08.30 - 21.00",
+                    
+                    "ALAN": 367,
+                    "INTERNET_A": "YOK",
+                    "E_SPOR": "YOK",
+                    "KUTUPHANE": "VAR",
+                    "coordinates": [
+                        40.221421741656584, 28.8472659028653
+                    ]
+                    
+            },
+            {
+                
+                    "ILCE": "NİLÜFER",
+                    "MAHALLE": "GÖRÜKLE",
+                    "ADI": "GÖRÜKLE GENÇLİK MERKEZİ",
+                    
+                    "ADRES": "EĞİTİM CADDESİ 20/B",
+                    
+                    "CALISMA_SA": "08:00 - 22:00",
+                    
+                    "ALAN": 4000,
+                    
+                    "INTERNET_A": "FİBER",
+                    
+                    "E_SPOR": "YOK",
+                    
+                    "KUTUPHANE": "YOK",
+                    
+                
+                    "coordinates": [
+                        40.22686003608402, 28.850515298374166
+                    ]
+                
+            },
+            {
+               
+                    "ILCE": "MUDANYA",
+                    "MAHALLE": "ÖMERBEY",
+                    "ADI": "MUDANYA  GENÇLİK MERKEZİ",
+                    
+                    "ADRES": "İSTASYON CADDESİ NO:2",
+                   
+                    "CALISMA_SA": "09:00 - 23:00",
+                    "ALAN": 540,
+                    "INTERNET_A": "ADSL",
+                    
+                    "E_SPOR": "YOK",
+                    
+                    "KUTUPHANE": "VAR",
+                    
+                    "coordinates": [
+                        40.37307042637698, 28.889993004972858
+                    ]
+               
+            },
+            {
+               
+                    "ILCE": "OSMANGAZİ",
+                    "MAHALLE": "HAMZABEY",
+                    "ADI": "MURADİYE HÜSNÜ ZÜBER GENÇLİK MERKEZİ",
+                   
+                    "ADRES": "HAMZABEY, KAPLICA CD. NO:55-1, 16060 OSMANGAZİ/BURSA",
+                    
+                    "CALISMA_SA": "09:30 - 19:00",
+                    
+                    "ALAN": 100,
+                    
+                    "INTERNET_A": "FİBER",
+                   
+                    "E_SPOR": "YOK",
+                    
+                    "KUTUPHANE": "VAR",
+                    
+                    "coordinates": [
+                        40.19019367150251, 29.045118268944268
+                    ]
+                
+            },
+            {
+                
+                    "ILCE": "OSMANGAZİ",
+                    "MAHALLE": "DEMİRTAŞPAŞA",
+                    "ADI": "MUHSİN YAZICIOĞLU GENÇLİK MERKEZİ",
+                   
+                    "ADRES": "DEMİRTAŞPAŞA MAH. 10. GÜL SOK. NO: 49",
+                    
+                    "CALISMA_SA": "09:00 - 19:00",
+                   
+                    "ALAN": 400,
+                   
+                    "INTERNET_A": "FİBER",
+                   
+                    "E_SPOR": "YOK",
+                   
+                    "KUTUPHANE": "VAR",
+                    
+                    "coordinates": [
+                        40.18908420190038, 29.07043183496588
+                    ]
+              
+            },
+            {
+                
+                    "ILCE": "YILDIRIM",
+                    "MAHALLE": "VATAN",
+                    "ADI": "VATAN GENÇLİK MERKEZİ",
+                   
+                    "ADRES": "VATAN MH. VATAN CAD. NO: 148\/A YILDIRIM BURSA",
+                    
+                    "CALISMA_SA": "09:00 - 21:00",
+                    
+                    "ALAN": 1000,
+                    
+                    "INTERNET_A": "VAR",
+                    
+                    "E_SPOR": "VAR",
+                    
+                    "KUTUPHANE": "VAR",
+                    
+                    "coordinates": [
+                        40.20545057153554, 29.09295246434251
+                    ]
+                
+            },
+            {
+                
+                    "ILCE": "YILDIRIM",
+                    "MAHALLE": "ERİKLİ",
+                    "ADI": "YILDIRIM MİLLET KIRAATHANESİ",
+                    
+                    "ADRES": "ERİKLİ MAH. EFLAK CAD. NO:23",
+                    
+                    "CALISMA_SA": "09:00 - 23:00",
+                    
+                    "ALAN": 800,
+                    
+                    "INTERNET_A": "FİBER",
+                    
+                    "E_SPOR": "YOK",
+                   
+                    "KUTUPHANE": "VAR",
+                    
+                    "coordinates": [
+                        40.18673347034987, 29.136811013122006
+                    ]
+                
+            },
+            {
+                    "ILCE": "GEMLİK",
+                    "MAHALLE": "DR.ZİYA KAYA",
+                    "ADI": "GEMLİK GENÇLİK MERKEZİ",
+                    
+                    "ADRES": "İSTİKLAL CAD. NO:76",
+                    
+                    "CALISMA_SA": "08:00 - 23:00",
+                    
+                    "ALAN": 220,
+                   
+                    "INTERNET_A": "YOK",
+                    
+                    "E_SPOR": "YOK",
+                    
+                    "KUTUPHANE": "VAR",
+                    
+                
+                    "coordinates": [
+                        40.42915619675965, 29.16691192275629
+                    ]
+                
+            },
+            {
+                
+                    "ILCE": "ORHANGAZİ",
+                    "MAHALLE": "CAMİİ KEBİR",
+                    "ADI": "ORHANGAZİ KÜLTÜR VE GENÇLİK MERKEZİ",
+                    
+                  
+                    "ADRES": "TOZKOPARAN CAD. NO:43A",
+                    
+                    "CALISMA_SA": "09:00 - 24:00",
+                   
+                    "ALAN": 8000,
+                    
+                    "INTERNET_A": "FİBER",
+                   
+                    "E_SPOR": "VAR",
+                   
+                    "KUTUPHANE": "VAR",
+                    
+                    "coordinates": [
+                        40.48789788707592, 29.30814746340473
+                    ]
+                
+            }
+        ]
+ 

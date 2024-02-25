@@ -1,0 +1,105 @@
+[
+    {
+        "adi": "Hamitler Ana Kucağı",
+        "adres": "Hamitler, 2. Meram Sk. 2-28, 16160 Osmangazi/Bursa",
+        "telefon": "",
+        "coordinates": [
+            40.247255,
+            28.981754
+        ]
+    },
+    {
+        "adi": "Arabayatağı  Ana Kucağı",
+        "adres": "Arabayatağı Mh, Beydere Sk. No:1, 16290 Yıldırım/Bursa",
+        "telefon": "0224 368 70 29",
+        "coordinates": [
+            40.195975332636436,
+            29.128179900000003
+        ]
+    },
+    {
+        "adi": "Beyazıt Ana Kucağı",
+        "adres": "Beyazıt, 2. Kurt Sk., 16320 Yıldırım/Bursa",
+        "telefon": "0224 362 09 53",
+        "coordinates": [
+            40.189512356362194,
+            29.096366276713802
+        ]
+    },
+    {
+        "adi": "Hürriyet Ana Kucağı",
+        "adres": "Soğukkuyu, Fakülte Cd. No:3, 16170 Osmangazi/Bursa",
+        "telefon": "(0224) 716 30 73",
+        "coordinates": [
+            40.217821361692934,
+            29.00670683068552
+        ]
+    },
+    {
+        "adi": "İnegöl Ana Kucağı",
+        "adres": "Akhisar, 16400 İnegöl/Bursa",
+        "telefon": "",
+        "coordinates": [
+            40.11921618349554,
+            29.45838555397172
+        ]
+    },
+    {
+        "adi": "Mollafenari Ana Kucağı",
+        "adres": "Mollafenari, 12. Dilek Sk., 16040 Osmangazi/Bursa",
+        "telefon": "",
+        "coordinates": [
+            40.17754728134033,
+            29.0588868
+        ]
+    },
+    {
+        "adi": "Mudanya Şükrü Çavuş Aile Destek Merkezi",
+        "adres": "Ömerbey, İpar Cd. 70 A, 16940 Mudanya/Bursa",
+        "telefon": "",
+        "coordinates": [
+            40.374079804671766,
+            28.887513169314477
+        ]
+    },
+    {
+        "adi": "Mustafakemalpaşa Ana Kucağı",
+        "adres": "Hamidiye, 26. Sk. No:25, 16510 Mustafakemalpaşa/Bursa",
+        "telefon": "",
+        "coordinates": [
+            40.031498000975006, 28.396475615342762
+        ]
+    },
+    {
+        "adi": "Ovaakça Ana Kucağı",
+        "adres": "Ovaakça Merkez, Şht. Kalkancı Sk. No:24, 16335 Osmangazi/Bursa",
+        "telefon": "",
+        "coordinates": [
+            40.29647510859835, 29.055380169314475
+        ]
+    },
+    {
+        "adi": "Vakıfköy Ana Kucağı",
+        "adres": "Vakıf Mah. Vakıf Köyü Cad. 49 Yıldırım, Bursa",
+        "telefon": "0224 353 00 49",
+        "coordinates": [
+            40.21767269268651, 29.144858469314475
+        ]
+    },
+    {
+        "adi": "Vatan Ana Kucağı",
+        "adres": "Vatan, 10. Bülbül Sk., 16270 Yıldırım/Bursa",
+        "telefon": "0224 361 96 51",
+        "coordinates": [
+            40.198213090770565, 29.092305369314477
+        ]
+    },
+    {
+        "adi": "Çınarönü Ana Kucağı",
+        "adres": "Çınarönü Mah. Çınarönü Cad. 76 Yıldırım, Bursa",
+        "telefon": "0224 249 42 07",
+        "coordinates": [
+            40.19967300373028, 29.134801630685516
+        ]
+    }
+]
